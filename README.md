@@ -50,11 +50,8 @@ The application allows multiple users to share their live location and view each
 ---
 
 ## ▶️ How to Run Locally
-
-### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/AbhishekSindhwal/real-time-tracker.git
-cd real-time-tracker
 cd real-time-tracker
 npm install
 node index.js
